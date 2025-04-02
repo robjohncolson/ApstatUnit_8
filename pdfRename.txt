@@ -1,0 +1,61 @@
+Thank you for the clarification! That makes a lot of sense. Let’s correct the terminology and reframe the list accordingly:
+
+- **TB (Test Book):** This is the questions-only portion of the quiz (the student version with no answers).
+- **SG (Study Guide):** This is the full answer portion of the quiz (the version that includes the questions along with the correct answers or solutions, typically used for studying or grading).
+
+I’ll now update the comprehensive list of quizzes with their full filenames and the topics they belong to, using the corrected terminology. I’ll also ensure the roles of TB and SG are accurately reflected.
+
+---
+
+### Unit 8: Inference for Categorical Data: Chi-Square - Quizzes (Updated)
+
+#### 8.1 Introducing Statistics: Are My Results Unexpected?
+- **No quiz associated** (as confirmed earlier).
+
+#### 8.2 Setting Up a Chi-Square Goodness of Fit Test
+- **Test Book (TB) - Questions Only:** TB_SettingUpAChiSquareTestForGoodnessofFitQUIZ_67E1f43dcea57.67E1f43b8c9a1.10871078.pdf
+- **Study Guide (SG) - Questions with Answers:** SG_SettingUpAChiSquareTestForGoodnessofFitQUIZ_67E1f445cf555.67E1f447e824b2.55787567.pdf
+
+#### 8.3 Carrying Out a Chi-Square Test for Goodness of Fit
+- **Test Book (TB) - Questions Only:** TB_CarryingOutAChiSquareTestforGoodnessofFitQuiz_67E1f4c4c163b.67E1f4cdc5d392.10340596.pdf
+- **Study Guide (SG) - Questions with Answers:** SG_CarryingOutAChiSquareTestforGoodnessofFitQuiz_67E1f4d1d41a60.67E1f4d22353f3.77050495.pdf
+
+#### 8.4 Expected Counts in Two-Way Tables
+- **Test Book (TB) - Questions Only:** TB_ExpectedCountsInTwoWayTablesQuiz_67E1f57402f00.67E1f574ebla05.70223560.pdf
+- **Study Guide (SG) - Questions with Answers:** SG_ExpectedCountsInTwoWayTablesQuiz_67E1f5788d672.67E1f5788df921.10373687.pdf
+
+#### 8.5 Setting Up a Chi-Square Test for Homogeneity or Independence
+- **Test Book (TB) - Questions Only:** TB_SettingUpAChiSquareTestforHomogeneityorIndependenceQUIZ_67E1f5a7sa0967.67E1f5a8738183.02934607.pdf
+- **Study Guide (SG) - Questions with Answers:** SG_SettingUpAChiSquareTestforHomogeneityorIndependenceQUIZ_67E1f5ab24bfb7.67E1f5ac4ba347.11899047.pdf
+
+#### 8.6 Carrying Out a Chi-Square Test for Homogeneity or Independence
+- **Test Book (TB) - Questions Only:** TB_CarryingOutAChiSquareTestforHomogeneityorIndependenceQuiz_67E1f5ec645481.67E1f5ed962a30.9528920.pdf
+- **Study Guide (SG) - Questions with Answers:** SG_CarryingOutAChiSquareTestforHomogeneityorIndependenceQuiz_67E1f5f0bbd845.67E1f5f279e81b.27088614.pdf
+
+#### 8.7 Skills Focus: Selecting an Appropriate Inference Procedure for Categorical Data
+- **No quiz associated** (as confirmed earlier).
+
+#### Unit 8 Progress Check Quizzes
+- **FRQ (Test Book - Questions Only):** TB_Unit8ProgressCheckFRQ_67E1f6a026b902.67E1f6a1090df0.96540970.pdf
+- **FRQ (Study Guide - Questions with Answers):** SG_Unit8ProgressCheckFRQ_67E1f6a38b5305.67E1f6a4e9b557.37591501.pdf
+- **MCQ Part A (Study Guide - Questions with Answers):** SG_Unit8ProgressCheckMCQPartA_67E1f670d38838.67E1f672b83ecd3.01930225.pdf
+- **MCQ Part B (Study Guide - Questions with Answers):** SG_Unit8ProgressCheckMCQPartB_67E1f6b845366a0.67E1f6b83ecdcf1.62827587.pdf
+
+---
+
+### Summary (Updated)
+- **Total Quizzes:** 10 files (5 topics with TB and SG versions, plus 4 Unit 8 Progress Check files).
+- **Breakdown by Topic:**
+  - 8.1: No quiz.
+  - 8.2: 2 files (TB and SG).
+  - 8.3: 2 files (TB and SG).
+  - 8.4: 2 files (TB and SG).
+  - 8.5: 2 files (TB and SG).
+  - 8.6: 2 files (TB and SG).
+  - 8.7: No quiz.
+  - Unit 8 Progress Check: 4 files (FRQ TB and SG, MCQ Part A SG, MCQ Part B SG).
+- **Clarification on Progress Check Quizzes:**
+  - For the Unit 8 Progress Check, you have the TB (questions-only) and SG (questions with answers) for the FRQ portion.
+  - However, for the MCQ Part A and Part B, you only have the SG versions (questions with answers). The TB versions (questions-only) for MCQ Part A and Part B were not provided. If you need the questions-only versions for these, you might want to look for the TB files for those sections.
+
+This updated list now accurately reflects the roles of TB (Test Book, questions-only) and SG (Study Guide, questions with answers) for all the quizzes in Unit 8. Let me know if you’d like to proceed with another unit or if there’s anything else I can help with!
