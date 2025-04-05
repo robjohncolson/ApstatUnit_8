@@ -1,21 +1,17 @@
 $ ls -lR
 .:
-total 197
--rw-r--r-- 1 LPS+ColsonR 4096   1635 Apr  2 19:13 AdditionalURLS.txt
+total 181
 -rw-r--r-- 1 LPS+ColsonR 4096  15018 Apr  5 14:35 Index-spec.json
--rw-r--r-- 1 LPS+ColsonR 4096   3083 Apr  2 19:13 accurate-quiz-mappings.txt
 -rw-r--r-- 1 LPS+ColsonR 4096   1223 Apr  5 14:36 claude-build-gamma.txt
 -rw-r--r-- 1 LPS+ColsonR 4096   2670 Apr  2 19:13 claude-build-prompt.txt
 -rw-r--r-- 1 LPS+ColsonR 4096     89 Apr  2 19:13 gemini-index-spec-maker.txt
 -rw-r--r-- 1 LPS+ColsonR 4096   1865 Apr  2 19:13 grok-gather-material-prompt.txt
--rw-r--r-- 1 LPS+ColsonR 4096 123425 Apr  5 14:26 index.html
+-rw-r--r-- 1 LPS+ColsonR 4096 123425 Apr  5 15:14 index.html
 -rw-r--r-- 1 LPS+ColsonR 4096   6813 Apr  2 19:13 knowledge-tree.md
--rw-r--r-- 1 LPS+ColsonR 4096   2154 Apr  5 15:07 ls-output.txt
--rw-r--r-- 1 LPS+ColsonR 4096   4374 Apr  2 19:13 pdfRename.txt
+-rw-r--r-- 1 LPS+ColsonR 4096   2135 Apr  5 15:08 ls-output.txt
+-rw-r--r-- 1 LPS+ColsonR 4096   9027 Apr  5 15:11 media-map.md
 drwxr-xr-x 1 LPS+ColsonR 4096      0 Apr  5 15:04 pdfs/
--rw-r--r-- 1 LPS+ColsonR 4096   4960 Apr  2 19:13 rename_pdfs.py
 -rw-r--r-- 1 LPS+ColsonR 4096   3292 Apr  5 14:22 verify_conversion.py
--rw-r--r-- 1 LPS+ColsonR 4096   2432 Apr  2 19:13 videoURLS.txt
 
 ./pdfs:
 total 4
