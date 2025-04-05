@@ -1,4 +1,95 @@
-import os
+Let’s compile a comprehensive list of all the video URLs you provided, along with the topics they correspond to in Unit 8 of the AP Statistics course. I’ll organize them by topic for clarity.
+
+### Unit 8: Inference for Categorical Data: Chi-Square - Video URLs
+
+#### 8.1 Introducing Statistics: Are My Results Unexpected?
+- **Video URL:** https://apclassroom.collegeboard.org/d/ej0nzh9akp?sui=33,8
+
+#### 8.2 Setting Up a Chi-Square Goodness of Fit Test
+- **Daily Video 1 (Skill 3.C):** https://apclassroom.collegeboard.org/d/y7ikpxw7jp?sui=33,8
+- **Daily Video 2 (Skill 1.F):** https://apclassroom.collegeboard.org/d/3uua57pe0x?sui=33,8
+- **Daily Video 3 (Skill 4.C):** https://apclassroom.collegeboard.org/d/z0hykwj3ge?sui=33,8
+
+#### 8.3 Carrying Out a Chi-Square Test for Goodness of Fit
+- **Daily Video 1 (Skill 3.E):** https://apclassroom.collegeboard.org/d/9fkzxeaa5b?sui=33,8
+- **Daily Video 2 (Skill 4.B):** https://apclassroom.collegeboard.org/d/1rm91jvq1n?sui=33,8
+- **Daily Video 3 (Skill 4.E):** https://apclassroom.collegeboard.org/d/nayiwphnlr?sui=33,8
+
+#### 8.4 Expected Counts in Two-Way Tables
+- **Video URL:** https://apclassroom.collegeboard.org/d/hmyh34raqt?sui=33,8
+
+#### 8.5 Setting Up a Chi-Square Test for Homogeneity or Independence
+- **Daily Video 1 (Skill 1.F):** https://apclassroom.collegeboard.org/d/0bnpabex6u?sui=33,8
+- **Daily Video 2 (Skill 4.C):** https://apclassroom.collegeboard.org/d/kqfcpu28su?sui=33,8
+
+#### 8.6 Carrying Out a Chi-Square Test for Homogeneity or Independence
+- **Daily Video 1 (Skill 3.E):** https://apclassroom.collegeboard.org/d/gp64nrb7vq?sui=33,8
+- **Daily Video 2 (Skill 4.B):** https://apclassroom.collegeboard.org/d/88cjo73k9v?sui=33,8
+- **Daily Video 3 (Skill 4.E):** https://apclassroom.collegeboard.org/d/1ea6gxau2t?sui=33,8
+
+#### 8.7 Skills Focus: Selecting an Appropriate Inference Procedure for Categorical Data
+- **Video URL:** https://apclassroom.collegeboard.org/d/v3kuvm87ss?sui=33,8
+
+### Summary
+- **Total Videos:** 14 videos across the 7 topics in Unit 8.
+- **Breakdown by Topic:**
+  - 8.1: 1 video
+  - 8.2: 3 videos
+  - 8.3: 3 videos
+  - 8.4: 1 video
+  - 8.5: 2 videos
+  - 8.6: 3 videos
+  - 8.7: 1 video
+
+This list captures all the video URLs you provided, organized by their respective topics in Unit 8. Let me know if you’d like to proceed with another unit or if there’s anything else I can assist with!Schoology URL's
+
+8-{1,2}
+https://lynnschools.schoology.com/course/7448188572/materials?f=887494775
+8-{3,4}
+https://lynnschools.schoology.com/course/7448188572/materials?f=887494773
+8-{5,6,7}
+https://lynnschools.schoology.com/course/7448188572/materials?f=888397751
+
+
+(Videos on Google drive)
+8-1
+https://drive.google.com/file/d/1kw-NYDqOcOUP8zvAsSuzIfuQ9KXow99C/view?usp=drive_link
+8-2-1
+https://drive.google.com/file/d/1Aup8w5fYTy69zWogOdtsXCO6kl6UNCCT/view?usp=drive_link
+8-2-2
+https://drive.google.com/file/d/1Y7lopnXRCIbckoMM9csk8h1uCixX3LKd/view?usp=drive_link
+8-2-3
+https://drive.google.com/file/d/1FMDpI5aNP3UoB4YppkX3ba7llfvfhLba/view?usp=drive_link
+
+8-3-1
+https://drive.google.com/file/d/1NemHYSwgnig3l3FUeyDYcDdt80aIYfd4/view?usp=drive_link
+
+8-3-2
+https://drive.google.com/file/d/1A3t8-9QW7ubguCrQdApGKf4GkZWb1qBi/view?usp=drive_link
+
+8-3-3
+https://drive.google.com/file/d/1tqgSvs4IHjltdUWtH7WmyqbPWGCMMoXb/view?usp=drive_link
+
+8-4-1
+https://drive.google.com/file/d/16dgP2zYBVUN2qzFlGRXKZ5aqErJv8FyQ/view?usp=drive_link
+
+8-5-1
+https://drive.google.com/file/d/1YHP2ipcZ5Vj35OVgZBYwExUjfU-yB2q1/view?usp=drive_link
+
+8-5-2
+https://drive.google.com/file/d/1YHP2ipcZ5Vj35OVgZBYwExUjfU-yB2q1/view?usp=drive_link
+
+8-6-1
+https://drive.google.com/file/d/1DS_LxyMAABbjaN3VrMjBcDXy0PwbDaP3/view?usp=drive_link
+
+8-6-2
+https://drive.google.com/file/d/1hm-K8vBzjXcx7hTdU2E8-0bIDhdUgiq_/view?usp=drive_link
+
+8-6-3
+https://drive.google.com/file/d/1v9ENpspNX7MSsuE50ZXoQyizuGOJ35sp/view?usp=drive_link
+
+8-7-1
+https://drive.google.com/file/d/175SWda7WXUWkt1EbLLDOwKWD-4Gn8llx/view?usp=drive_linkimport os
 import shutil
 import re
 
