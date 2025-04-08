@@ -16,5 +16,5 @@ unit 8's AP exam weight is 2-5%
 
 3
 Now let's focus on capstone in @index.html.  The buttons gotta match where they head to.  if the button is mated to an FRQ answer, let the button express that.  If it's mated to an MCQ part A answer, let it say that!
-
+make python scripts that do not modify any files, to help.
 Focus only on index.html
