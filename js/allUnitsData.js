@@ -2360,8 +2360,8 @@ const ALL_UNITS_DATA = [
         ],
         quizzes: [
             {
-                questionPdf: "pdfs/unit9/9-2_quiz.pdf",
-                answersPdf: "pdfs/unit9/9-2_quiz_answer.pdf",
+                questionPdf: "pdfs/unit9/unit9_section9.2_quiz.pdf",
+                answersPdf: "pdfs/unit9/unit9_section9.2_answers.pdf",
                 quizId: "9-2_q1",
                 completed: false,
                 completionDate: null
@@ -2389,8 +2389,8 @@ const ALL_UNITS_DATA = [
         ],
         quizzes: [
             {
-                questionPdf: "pdfs/unit9/9-3_quiz.pdf",
-                answersPdf: "pdfs/unit9/9-3_quiz_answer.pdf",
+                questionPdf: "pdfs/unit9/unit9_section9.3_quiz.pdf",
+                answersPdf: "pdfs/unit9/unit9_section9.3_answers.pdf",
                 quizId: "9-3_q1",
                 completed: false,
                 completionDate: null
@@ -2418,8 +2418,8 @@ const ALL_UNITS_DATA = [
         ],
         quizzes: [
             {
-                questionPdf: "pdfs/unit9/9-4_quiz.pdf",
-                answersPdf: "pdfs/unit9/9-4_quiz_answer.pdf",
+                questionPdf: "pdfs/unit9/unit9_section9.4_quiz.pdf",
+                answersPdf: "pdfs/unit9/unit9_section9.4_answers.pdf",
                 quizId: "9-4_q1",
                 completed: false,
                 completionDate: null
@@ -2453,8 +2453,8 @@ const ALL_UNITS_DATA = [
         ],
         quizzes: [
             {
-                questionPdf: "pdfs/unit9/9-5_quiz.pdf",
-                answersPdf: "pdfs/unit9/9-5_quiz_answer.pdf",
+                questionPdf: "pdfs/unit9/unit9_section9.5_quiz.pdf",
+                answersPdf: "pdfs/unit9/unit9_section9.5_answers.pdf",
                 quizId: "9-5_q1",
                 completed: false,
                 completionDate: null
@@ -2484,22 +2484,22 @@ const ALL_UNITS_DATA = [
         videos: [],
         quizzes: [
             {
-                questionPdf: "pdfs/unit9/9-PC_FRQ_quiz.pdf",
-                answersPdf: "pdfs/unit9/9-PC_FRQ_answer.pdf",
+                questionPdf: "pdfs/unit9/unit9_pc_frq.pdf",
+                answersPdf: "pdfs/unit9/unit9_pc_frq_answers.pdf",
                 quizId: "9-capstone_q1",
                 completed: false,
                 completionDate: null
             },
             {
-                questionPdf: "pdfs/unit9/9-PC_MCQ_A_answer.pdf",
-                answersPdf: "pdfs/unit9/9-PC_MCQ_A_answer.pdf",
+                questionPdf: "pdfs/unit9/unit9_pc_mcq_partA_answers.pdf",
+                answersPdf: "pdfs/unit9/unit9_pc_mcq_partA_answers.pdf",
                 quizId: "9-capstone_q2",
                 completed: false,
                 completionDate: null
             },
             {
-                questionPdf: "pdfs/unit9/9-PC_MCQ_B_answer.pdf",
-                answersPdf: "pdfs/unit9/9-PC_MCQ_B_answer.pdf",
+                questionPdf: "pdfs/unit9/unit9_pc_mcq_partB_answers.pdf",
+                answersPdf: "pdfs/unit9/unit9_pc_mcq_partB_answers.pdf",
                 quizId: "9-capstone_q3",
                 completed: false,
                 completionDate: null
