@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>%%UnitXTitle%%</title>
+    <title>%%UNIT_TITLE%%</title>
 
     <!-- AP Statistics Data -->
     <script src="js/allUnitsData.js"></script>    
@@ -93,10 +93,10 @@
     <!-- END Bookmark Indicator Placeholder -->
 
         <header class="text-center mb-8">
-            <h1 class="text-3xl font-bold text-blue-600">%%UnitXHeading%%</h1>
+            <h1 class="text-3xl font-bold text-blue-600">%%UNIT_H1%%</h1>
             <p class="text-gray-600 mt-2">Tools and guides to help you succeed in AP Statistics</p>
             <div class="mt-2 bg-yellow-100 text-yellow-800 px-4 py-2 rounded-md inline-block">
-                <span class="font-semibold">Exam Weight:</span>%%UnitXExamWeight%%
+                <span class="font-semibold">Exam Weight:</span>%%UNIT_EXAMWEIGHT%%
             </div>
         </header>
         
@@ -364,7 +364,7 @@ async function updateQuotaMetVisualIndicator() {
     console.log('GH_DEBUG (VisualIndicator): EXITING function.');
 }
         // In Unit 1's index.html
-        const UNIT_ID = '%%UnitXId%%';
+        const UNIT_ID = '%%UNIT_ID%%';
         // Supabase initialization
         const SUPABASE_URL = 'https://rmqetzxoqupnggltuzqf.supabase.co';
         const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJtcWV0enhvcXVwbmdnbHR1enFmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDM3MjM2NzAsImV4cCI6MjA1OTI5OTY3MH0.9I56L1kC_4JJr_u9LuDgQ2ZV5C0y_-yic828UeCiuUk';
@@ -1204,7 +1204,7 @@ Thank you for helping me prepare for my AP Statistics exam!`;
         // Study Materials and PDF Organization
         
         // Define the PDF files and organize them by topic
-        const pdfFiles = %%UnitMaterialsArray%%;
+        const pdfFiles = %%PDF_FILES_ARRAY%%;
         
         // Function to create a topic card for display in the Study Materials tab
         function createTopicCard(topic, forNextTopic = false) {
